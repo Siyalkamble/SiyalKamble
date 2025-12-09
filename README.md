@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **siyalkamble9106@gmail.com** For Collaboration/Project or 
 - 🌟 **Prime AI Batch:** 4-month AI/ML Intensive Program
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siyal_kambale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siyal-Kambale) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyalkamble9106@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siyal_kambale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siyalkambale) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyalkamble9106@gmail.com)
 
 ---
 
