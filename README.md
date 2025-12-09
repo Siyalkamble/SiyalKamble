@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **siyalkamble9106@gmail.com** For Collaboration/Project or 
 - 👯 **I'm looking to collaborate on:** Beginner‑friendly AI/ML projects, simple RAG/LLM demos, and Flask/Streamlit apps
 - 🤔 **I'm looking for help with:** Deploying ML models, understanding embeddings for RAG, and improving my PyTorch basics
 - 💬 **Ask me about:** Python for ML, RAG, NLP
-- 📫 **How to reach me:** [siyalkamble9106@gmail.com](mailto:siyalkamble9106@gmail.com) | [LinkedIn: Siyal Kambale](https://linkedin.com/in/Siyal-Kambale)
+- 📫 **How to reach me:** [siyalkamble9106@gmail.com](mailto:siyalkamble9106@gmail.com) | [LinkedIn: Siyal Kambale](https://linkedin.com/in/Siyalkambale)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm learning to build real AI apps
 
