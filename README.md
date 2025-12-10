@@ -54,10 +54,8 @@ Email Me 👉 ✉️ **siyalkamble9106@gmail.com** For Collaboration/Project or 
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siyalkamble&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
 
 ### ✍️ Random Dev Quote
 > "The best way to predict the future is to invent it."  
