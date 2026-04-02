@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **siyalkamble9106@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I'm currently working on:** small ML projects
-- 🌱 **I'm currently learning:** Python OOP, Pandas/NumPy, Scikit-learn, Math for AI/ML 
+- 🌱 **I'm currently learning:** Machine Learning and Deep Learning 
 - 👯 **I'm looking to collaborate on:** Beginner‑friendly AI/ML projects, simple RAG/LLM demos, and Flask/Streamlit apps
 - 🤔 **I'm looking for help with:** Deploying ML models, understanding embeddings for RAG, and improving my PyTorch basics
 - 💬 **Ask me about:** Python for ML, RAG, NLP
