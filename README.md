@@ -1,68 +1,72 @@
-# 💫 Hi 👋, I'm Siyal Kambale
-**AI/ML Engineer | RAG Systems & LLM Applications | Turning Data Into Intelligent Solutions**
+# 💫 Hi, I'm Siyal Kambale
 
-Email Me 👉 ✉️ **siyalkamble9106@gmail.com** For Collaboration/Project or Anything Else. 😊   
+**Final-Year BSc CS Student · Building toward AI/ML Engineer (LLM / GenAI / NLP) roles**
+
+📧 **siyalkamble9106@gmail.com** — open to collaboration on LLM, RAG, and applied ML projects.
 
 🌐 **Portfolio:** [siyalkamble.vercel.app](https://siyalkamble.vercel.app)
 
-- 🔭 **I'm currently working on:** small Deep Learning projects
-- 🌱 **I'm currently learning:** Deep Learning
-- 👯 **I'm looking to collaborate on:** Beginner‑friendly AI/ML projects, simple RAG/LLM demos, and Flask/Streamlit apps
-- 🤔 **I'm looking for help with:** Deploying ML models, understanding embeddings for RAG, and improving my PyTorch basics
-- 💬 **Ask me about:** Python for ML, RAG, NLP
-- 📫 **How to reach me:** [siyalkamble9106@gmail.com](mailto:siyalkamble9106@gmail.com) | [LinkedIn: Siyal Kambale](https://www.linkedin.com/in/Siyalkambale)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I'm learning to build real AI apps
+---
+
+## 🎯 What I'm doing
+
+- 🔨 **Building now:** Transformer from scratch + custom RAG pipeline + evaluation harness (anchor project, in progress)
+- ✅ **Shipped:** Classical ML projects deployed end-to-end (see below)
+- 🎯 **Track:** Off-campus applications to AI-native Indian startups starting Nov 2026 — targeting GenAI/LLM/NLP engineering roles, not generic data science.
+- 🧠 **Also grinding:** DSA (NeetCode-style, 150 problems), ML/DL fundamentals from scratch (NumPy → PyTorch)
 
 ---
 
+## 🧩 Projects
 
-## 🎓 My Learning Journey
+### [Insurance Cost Predictor](https://github.com/Siyalkamble/Insurance-Cost-Predictor)
+Random Forest regression model (R² = 0.865) predicting medical insurance costs.
+**Stack:** FastAPI backend, Pydantic schema validation, Streamlit frontend, Docker, deployed on Hugging Face Spaces.
 
-- ✅ **Completed:** Python Fundamentals, Data Structures, OOP
-- ✅ **Completed:** Pandas, NumPy, Matplotlib
-- ✅ **In Progress:** Scikit-learn, TensorFlow, PyTorch
-- 🎯 **Next:** Flask Deployment, Docker, RAG Systems
-- 🌟 **Prime AI Batch:** 4-month AI/ML Intensive Program
+### Employee Turnover Classifier
+L2-regularized (Ridge) logistic regression classifier for employee attrition, optimized for ROC-AUC.
+**Stack:** scikit-learn, pandas, deployment-wrapped.
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siyal_kambale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siyalkambale) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyalkamble9106@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siyalkamble.vercel.app)
+### Char-Level LSTM Text Generator
+Text generation model built in PyTorch from the ground up — full training loop, gradient accumulation, `no_grad` inference.
 
----
-
-## 💻 Tech Stack
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### NumPy XOR Neural Network
+Feedforward network with backpropagation derived and implemented manually in raw NumPy (no autodiff). Debugged dying ReLU and forward/backward pass mismatches by hand.
 
 ---
 
-## 📈 Contribution Activity
+## 🛠️ Tech Stack
+
+**Languages:** Python
+**ML/DL:** PyTorch, scikit-learn, NumPy, pandas
+**LLM/GenAI (in progress):** Transformers, RAG, Hugging Face
+**Backend/Deployment:** FastAPI, Streamlit, Docker, Hugging Face Spaces
+**Tooling/OS:** Git/GitHub, `uv`, Linux (CachyOS/Arch), Fish shell
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siyalkamble&theme=nord&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📊 Profile Summary
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siyalkamble&theme=github_dark)
 
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siyalkamble&theme=github_dark)
 
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siyalkamble&theme=github_dark)
-
 ---
 
+## 🌐 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siyalkambale)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyalkamble9106@gmail.com)
 
+<!-- Proudly maintained by Siyal Kambale -->
 
-### ✍️ Random Dev Quote
-> "The best way to predict the future is to invent it."  
-> — **Alan Kay** (AI Pioneer)
-
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
