@@ -12,36 +12,23 @@
 
 - 🔨 **Building now:** Transformer from scratch + custom RAG pipeline + evaluation harness (anchor project, in progress)
 - ✅ **Shipped:** Classical ML projects deployed end-to-end (see below)
-- 🎯 **Track:** Off-campus applications to AI-native Indian startups starting Nov 2026 — targeting GenAI/LLM/NLP engineering roles, not generic data science.
+- 🎯 **Track:** Off-campus applications to AI-native Indian startups / companies — targeting GenAI/LLM/NLP engineering roles, not generic data science.
 - 🧠 **Also grinding:** DSA (NeetCode-style, 150 problems), ML/DL fundamentals from scratch (NumPy → PyTorch)
-
----
-
-## 🧩 Projects
-
-### [Insurance Cost Predictor](https://github.com/Siyalkamble/Insurance-Cost-Predictor)
-Random Forest regression model (R² = 0.865) predicting medical insurance costs.
-**Stack:** FastAPI backend, Pydantic schema validation, Streamlit frontend, Docker, deployed on Hugging Face Spaces.
-
-### Employee Turnover Classifier
-L2-regularized (Ridge) logistic regression classifier for employee attrition, optimized for ROC-AUC.
-**Stack:** scikit-learn, pandas, deployment-wrapped.
-
-### Char-Level LSTM Text Generator
-Text generation model built in PyTorch from the ground up — full training loop, gradient accumulation, `no_grad` inference.
-
-### NumPy XOR Neural Network
-Feedforward network with backpropagation derived and implemented manually in raw NumPy (no autodiff). Debugged dying ReLU and forward/backward pass mismatches by hand.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python
+
 **ML/DL:** PyTorch, scikit-learn, NumPy, pandas
+
 **LLM/GenAI (in progress):** Transformers, RAG, Hugging Face
+
 **Backend/Deployment:** FastAPI, Streamlit, Docker, Hugging Face Spaces
+
 **Tooling/OS:** Git/GitHub, `uv`, Linux (CachyOS/Arch), Fish shell
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
