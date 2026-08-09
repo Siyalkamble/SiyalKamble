@@ -10,7 +10,7 @@
 
 ## 🎯 What I'm doing
 
-- 🔨 **Building now:** Transformer from scratch + custom RAG pipeline + evaluation harness (anchor project, in progress)
+- 🔨 **Building now:** Transformer from scratch  + evaluation harness (anchor project, in progress)
 - ✅ **Shipped:** Classical ML projects deployed end-to-end (see below)
 - 🎯 **Track:** Off-campus applications to AI-native Indian startups / companies — targeting GenAI/LLM/NLP engineering roles, not generic data science.
 - 🧠 **Also grinding:** DSA (NeetCode-style, 150 problems), ML/DL fundamentals from scratch (NumPy → PyTorch)
